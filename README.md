@@ -2,9 +2,9 @@
 Bonnes pratiques &amp; Astuces du prompting
 
 
-Utilisation de gpt 3.5 pour tester et améliorer le prompt et le modèle gpt-4  pour la génération de contenu.
-Utilisation de gpt o3 deep search pour des génération de documents ou des demandent plus complexes avec des réflexions.
-Attention modèle image applique un filtre visage donc on n'obtiendra pas deux fois le même visage.
+* Utilisation de gpt 3.5 pour tester et améliorer le prompt et le modèle gpt-4  pour la génération de contenu.
+* Utilisation de gpt o3 deep search pour des génération de documents ou des demandent plus complexes avec des réflexions.
+* Attention modèle image applique un filtre visage donc on n'obtiendra pas deux fois le même visage.
 
 0. Créer un "reset prompt" sous forme de **bullet points** et le stocker dans un fichier structuré (JSON par ex.).
 1. Bien définir l'intention recherché. Présent dans Yourtext Guru (brief SEO). On peut aussi coller la SERP dans GPT-4 avec search pour déduire l'intention de la SERP.
